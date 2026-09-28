@@ -53,8 +53,8 @@ Since this project relies exclusively on the Python standard library, no `pip in
 
 1. **Clone or Download** all 5 project files into a single directory:
    ```bash
-   mkdir student_grade_system
-   cd student_grade_system
+   git clone https://github.com/SiddhantBajpai44/Student_grade_management
+   cd Student_grade_system
    ```
 
 2. **Verify Python Installation** (Python 3.8 or higher is recommended):
